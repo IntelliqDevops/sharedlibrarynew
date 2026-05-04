@@ -9,7 +9,7 @@ def sub(a,b)
 
 def mul(a,b)
 {
-    echo "The product os ${a} and ${b} is ${a*b}"
+    echo "The product of ${a} and ${b} is ${a*b}"
 
 }
 def div(a,b)
